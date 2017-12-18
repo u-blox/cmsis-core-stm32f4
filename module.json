@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-stm32f4",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "CMSIS Core module for STM32F4xx microcontrollers",
   "keywords": [
     "mbed",
@@ -27,7 +27,7 @@
       "cmsis-core-stm32f401xe": "~0.1.0"
     },
     "stm32f429xi-no-inherit": {
-      "cmsis-core-stm32f429xi": "^1.0.0"
+      "cmsis-core-stm32f429xi": "^1.1.0"
     },
     "stm32f439zi-no-inherit": {
       "cmsis-core-stm32f439zi": "~0.1.0"
